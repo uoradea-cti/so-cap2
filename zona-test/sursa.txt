@@ -1,0 +1,3 @@
+Fisier de test pentru copiere.
+Are mai multe linii.
+Ultima linie.

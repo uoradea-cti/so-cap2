@@ -1,0 +1,10 @@
+# Executabile compilate (se trimite doar codul sursa)
+*.exe
+*.EXE
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Fisiere generate de Visual Studio
+.vs/
